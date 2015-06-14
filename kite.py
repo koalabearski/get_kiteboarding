@@ -1,9 +1,9 @@
 wind = 0
 gust = 0
-gear_range = range(10,16)
 counter = 0
+gear_range = range(10,16)
 
-# create a shop where you can get inventory
+# create a shop where you can get inventory and adjust gear_range stats (or overlap them if you bring several kites)
 def go_to_shop():
   '''Offers some choices of equipment to buy.'''
   # each piece of gear has stats that match a wind condition
@@ -32,4 +32,3 @@ for day in range(5):
   else:
     print "I'll take that as a no.  Maybe tomorrow!"
 
-# how to keep a running total of hours surfed?
