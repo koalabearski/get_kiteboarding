@@ -1,0 +1,1 @@
+Get Kiteboarding is a Choose Your Own Adventure style text game about choosing the right gear and days to try going to the beach.  It was built after I realised how finnicky getting into this sport can be.
